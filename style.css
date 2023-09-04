@@ -1,0 +1,111 @@
+.face{
+    height: 300px;
+    width: 290px;
+    position: absolute;
+    border-radius: 250px;
+    background-color: pink;
+    border: 2px solid black;
+}
+
+.eye1{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    border-radius: 30px;
+    background-color: white;
+    margin-left: 65%;
+    margin-top: 20%;
+}
+
+.eye2{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    border-radius: 30px;
+    background-color: white;
+    margin-top: 20%;
+    margin-left: 10%;
+}
+
+.ear-1{
+    height: 90px;
+    width: 90px;
+    background-color: pink;
+    position: absolute;
+    bottom: 70px;
+    border-top-left-radius: 45px;
+    border-top-right-radius: 45%;
+    left: -30px;
+    z-index: -1;
+    border: 2px solid black;
+}
+
+.ear-2{
+    height: 90px;
+    width: 90px;
+    background-color: pink;
+    position: absolute;
+    bottom: 70px;
+    border-top-left-radius: 45px;
+    border-top-right-radius: 45%;
+    left: -140px;
+    z-index: -1;
+    border: 2px solid black;
+}
+
+.nose{
+    height: 80px;
+    width: 120px;
+    background-color: red;
+    position: absolute;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    margin-left: 30%;
+    margin-top: 50%;
+}
+
+.hole1{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 65%;
+    margin-top: 20%;
+}
+
+.hole2{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: black;
+    border-radius: 30px;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+.pupil-1{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: black;
+    border-radius: 30px;
+    margin-left: 10%;
+    margin-top: 20%;
+}
+
+.pupil-2{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: black;
+    border-radius: 30px;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+body{
+    margin-top: 20%;
+}
